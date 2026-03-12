@@ -1,3 +1,3 @@
 <footer>
-    <p>2026 MyCompany. All Rights Reserved</p>
+    <p>2026 Putra Agata. All Rights Reserved</p>
 </footer>
